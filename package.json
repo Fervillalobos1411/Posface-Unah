@@ -6,13 +6,6 @@
         "build": "vite build",
         "dev": "vite"
     },
-    
-  "name": "posface-api",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",
         "@tailwindcss/vite": "^4.0.0",
